@@ -30,14 +30,22 @@
 - Domain: search.exonip.de
 - Host: 127.0.0.1:2005
 - Directory: /home/docker/whoogle, /etc/nginx/sites-enabled
+- 
 ## Searx
 - Domain: searx.exonip.de
 - Host: 127.0.0.1:2006 (searx), 127.0.0.1:2007 (morty)
 - Directory: /home/docker/searx
+- 
 ## Bitwarden
 - Domain: bitwarden.exonip.de
 - Host: 127.0.0.1:2008
 - Directory: /home/bitwarden/
+
+## Teddit
+- Domain: teddit.exonip.de
+- Host: 127.0.0.1:2009
+- Directory: /home/docker/teddit
+
 # Private Services
 ## Cloud
 - Domain: cloud.exonip.de
