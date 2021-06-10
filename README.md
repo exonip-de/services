@@ -30,7 +30,12 @@
 - Domain: search.exonip.de
 - Host: 127.0.0.1:2005
 - Directory: /home/docker/whoogle, /etc/nginx/sites-enabled
-
+- 
+## Searx
+- Domain: searx.exonip.de
+- Host: 127.0.0.1:2006 (searx), 127.0.0.1:2007 (morty)
+- Directory: /home/docker/searx
+- 
 # Private Services
 ## Cloud
 - Domain: cloud.exonip.de
