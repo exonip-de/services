@@ -12,7 +12,7 @@
 - Directory: /home/docker/invidious, /etc/nginx/sites-enabled, /etc/nginx/
 
 ## Nitter
-- nitter.exonip.de
+- Domain: nitter.exonip.de
 - Host: 127.0.0.1:2002
 - Directory: /home/docker/nitter, /etc/nginx/sites-enabled
 
