@@ -34,6 +34,10 @@
 - Domain: searx.exonip.de
 - Host: 127.0.0.1:2006 (searx), 127.0.0.1:2007 (morty)
 - Directory: /home/docker/searx
+## Bitwarden
+- Domain: bitwarden.exonip.de
+- Host: 127.0.0.1:2008
+- Directory: /home/bitwarden/
 # Private Services
 ## Cloud
 - Domain: cloud.exonip.de
